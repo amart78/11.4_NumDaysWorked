@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "locale": "cpp",
+        "streambuf": "cpp",
+        "chrono": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
+    }
+}
